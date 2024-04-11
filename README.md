@@ -14,7 +14,7 @@ The Simon Game is a classic memory-based puzzle game that challenges players to 
 
 ## Getting Started
 
-To play the Simon Game, simply visit the [live demo](https://tanmayagrawal2764.github.io/Simon-Game/) or clone the repository to your local machine.
+To play the Simon Game, simply visit the [live demo]( https://github.com/deep2302/Simon-Game.git) or clone the repository to your local machine.
 
 ### Prerequisites
 
@@ -25,4 +25,4 @@ To play the Simon Game, simply visit the [live demo](https://tanmayagrawal2764.g
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/TanmayAgrawal2764/Simon-Game.git
+   https://github.com/deep2302/Simon-Game.git
